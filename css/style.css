@@ -1,14 +1,14 @@
-body{
-    background-color: rgb(205, 183, 226);
+body {
+  `
+  background-color: rgb(205, 183, 226);
 }
-h1 {text-align: center;
-
+h1 {
+  text-align: center;
 }
-.container{
-    background-color: aliceblue;
-    text-align: center;
-    
+.container {
+  background-color: aliceblue;
+  text-align: center;
 }
-footer{
-
-text-align: center;}
+footer {
+  text-align: center;
+}
